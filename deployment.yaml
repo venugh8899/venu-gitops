@@ -20,7 +20,7 @@ spec:
       containers:
         - name: venu-app
 
-          image: venudocker8899/venu-app:latest
+          image: venudocker8899/venu-app:4
 
           ports:
             - containerPort: 80
